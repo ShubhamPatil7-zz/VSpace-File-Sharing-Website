@@ -1,0 +1,7 @@
+.txt { font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; background-color: #FFFFFF}
+.public { font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; background-color: #FF9933}
+.menu { font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #666666; background-color: #FFFFFF }
+.caption { font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #000000; background-color: #CCCCCC}
+.menu_sel { font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #666666; background-color: #FFFFFF }
+.private { font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; background-color: #EEEEEE}
+.error {  font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #FF0000; background-color: #FFFFFF}
